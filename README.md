@@ -1,4 +1,4 @@
-Simple Notes/To-Do app using ReactJS, HTML, JavaScript and CSS.
+Notes-app using ReactJS, HTML, JavaScript and CSS.
 
 
 
